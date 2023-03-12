@@ -1,0 +1,12 @@
+$ python3.6
+Python 3.6.0 (default, Feb  2 2017, 12:48:29)
+[GCC 4.2.1 Compatible Apple LLVM 7.0.2 (clang-700.1.81)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+~ $ mkdir lpthw
+~ $ cd lpthw
+lpthw $ ls
+# ... Use your text editor here to edit test.txt....
+lpthw $ ls
+test.txt
+lpthw $
